@@ -22,15 +22,13 @@ The most epic theme meets Visual Studio Code.
   - [Contributors](#contributors)
 
 
-### Getting started
+## Getting started
 
-This theme is available on the [Visual Studio Code Marketplace]
+This theme is coming to the [Visual Studio Code Marketplace]
 
-For a more less customized version, install [Material Theme (But I won't Sue You)](https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you)
+For a original less customized version, install [Material Theme (But I won't Sue You)](https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you) <a href="https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=flat-square"/></a>
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you). <a href="https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=flat-square"/></a>
-
-### Installation
+## Installation
 
 Launch *Quick Open*:
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
