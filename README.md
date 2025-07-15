@@ -1,24 +1,15 @@
 
-# Material Theme (But I won't sue you)
+# VSCode Fabric Theme: A Material Theme Tweak
 
-> **Note:** The original Material Theme has been removed from the marketplace due to [distributing malware through their extensions](https://news.ycombinator.com/item?id=43181591). This fork has been thoroughly audited and is completely safe to use. I have personally audited every line, and removed a TON of unnecessary stuff to be sure. The VS Code team is auditing it as well just to be extra safe.
+This theme is a customized version of the [VSCode Material Theme audited by t3dotgg](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you). This project is a fork of a [security audited version of the Material Theme](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you?tab=readme-ov-file), which is itself a fork of the [original material theme](https://github.com/Dramaga11/vsc-material-theme/tree/main). This project falls under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 
-So, uh, the guy who made the VS Code Material Theme is threatening everyone who uses it in their products. He [seems to have forgotten it was originally licensed under the Apache License, 2.0.](https://github.com/Dramaga11/vsc-material-theme/blob/main/LICENSE). He wiped the commit history to make it look like it was always his weird fake license. Check out my [blog post for more info](https://t3.gg/blog/post/equinusocio).
-
-What he has done is fraudulent and shameful. I have created this fork to maintain the original license and keep the project alive.
-
-I permit you to do whatever you want with this code as long as it follows the original license. I won't sue you for it. I promise.
-
-Sources:
-- [Attack on Zed post](https://dev.to/equinusocio/you-should-avoid-zed-editor-59n1) ([archive](https://archive.ph/PlljZ))
-- [Github Discussions attack on Zed](https://github.com/zed-industries/extensions/issues/1645) ([archive](https://archive.ph/5hZyK))
-- [Attack on Package Control (Sublime Text) post](https://dev.to/equinusocio/why-you-should-avoid-sublime-text-2c73) ([archive](https://archive.ph/IlN6D))
+For more information, see the [previous README.md](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you/blob/main/README.md) which includes the reason for him forking the original theme.
 
 ## Table of contents
 
 The most epic theme meets Visual Studio Code.
 
-- [Material Theme ](#material-theme-)
+- [Fabric Theme ](#fabric-theme-)
   - [Table of contents](#table-of-contents)
   - [Getting started](#getting-started)
     - [Installation](#installation)
@@ -31,7 +22,11 @@ The most epic theme meets Visual Studio Code.
   - [Contributors](#contributors)
 
 
-## Getting started
+### Getting started
+
+This theme is available on the [Visual Studio Code Marketplace]
+
+For a more less customized version, install [Material Theme (But I won't Sue You)](https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you)
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you). <a href="https://marketplace.visualstudio.com/items?itemName=t3dotgg.vsc-material-theme-but-i-wont-sue-you"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=flat-square"/></a>
 
